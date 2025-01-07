@@ -1,8 +1,8 @@
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/divyesh-pansuriya/divyesh-pansuriya.github.io)
-![GitHub stars](https://img.shields.io/github/stars/divyesh-pansuriya/divyesh.profile.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/divyeshpansuriya-ios/divyesh.profile.github.io?style=social)
+![GitHub stars](https://img.shields.io/github/stars/divyesh-pansuriya/divyesh-pansuriya.github.io?style=social)
+![GitHub forks](https://img.shields.io/github/forks/divyesh-pansuriya/divyesh-pansuriya.github.io?style=social)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
