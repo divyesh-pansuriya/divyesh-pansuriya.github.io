@@ -1,6 +1,6 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/divyesh-pansuriya/divyesh.profile.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/divyesh-pansuriya/divyesh-pansuriya.github.io)
 ![GitHub stars](https://img.shields.io/github/stars/divyesh-pansuriya/divyesh.profile.github.io?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/divyeshpansuriya-ios/divyesh.profile.github.io?style=social)
 
