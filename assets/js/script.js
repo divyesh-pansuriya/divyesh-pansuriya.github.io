@@ -74,7 +74,7 @@ for (let i = 0; i < selectItems.length; i++) {
 
   });
 }
-
+/*
 // filter variables
 const filterItems = document.querySelectorAll("[data-filter-item]");
 
@@ -92,7 +92,7 @@ const filterFunc = function (selectedValue) {
 
   }
 
-}
+}*/
 
 // add event in all filter button items for large screen
 let lastClickedBtn = filterBtn[0];
