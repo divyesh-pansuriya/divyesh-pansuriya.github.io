@@ -433,18 +433,26 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 15px;
+  gap: 10px;
   padding-bottom: 4px;
   padding-left: 7px;
 }
 
 .social-item .social-link {
   color: var(--light-gray-70);
-  font-size: 18px;
+  font-size: 20px;
+  border-radius: 50%; /* Makes it fully rounded */
+  padding: 8px; /* Adds spacing for a better circular effect */
+  display: inline-flex; /* Ensures proper alignment */
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease-in-out;
 }
 
-
-.social-item .social-link:hover { color: var(--light-gray); }
+.social-item .social-link:hover {
+  color: var(--orange-yellow-crayola-70);
+  background-color: rgba(255, 165, 0, 0.2); /* Light background on hover */
+}
 
 
 
