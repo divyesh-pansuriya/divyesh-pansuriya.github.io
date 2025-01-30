@@ -8,7 +8,7 @@ The Card is a fully responsive personal portfolio website, responsive for all de
 
 [Visit My Portfolio](https://divyesh-pansuriya.github.io/)
 
-[![Portfolio Preview](https://github.com/divyesh-pansuriya/divyesh-pansuriya.github.io/blob/main/assets/images/avatar-1.png)](https://divyesh-pansuriya.github.io/)
+[![Portfolio Preview](https://github.com/divyesh-pansuriya/divyesh-pansuriya.github.io/blob/main/assets/images/Portfolio.png)](https://divyesh-pansuriya.github.io/)
 
 ## Prerequisites
 
